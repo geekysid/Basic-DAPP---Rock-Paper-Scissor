@@ -1,0 +1,22 @@
+{
+  "name": "bsic-dapp-to-understand-interaction-with-metamask",
+  "version": "1.0.0",
+  "description": "Just a basic dap to understand how we can interact with smart contract on blockchain through Front end and also how to connect to Metamask using web3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Solidity",
+    "Smart",
+    "contract",
+    "Truffle",
+    "Truffle",
+    "Testing",
+    "Web3",
+    "Web3js",
+    "Metamask"
+  ],
+  "author": "Siddhant Shah",
+  "license": "ISC"
+}
